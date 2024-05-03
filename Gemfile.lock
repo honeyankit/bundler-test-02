@@ -1,0 +1,20 @@
+GIT
+  remote: https://github.com/dependabot-fixtures/ghes-private-package-gem
+  revision: 63db43ab77623bd3d0d9d31db381a3670585fc25
+  branch: main
+  tag: v1.0.0
+  specs:
+    ghes-private-package-gem (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ghes-private-package-gem!
+
+BUNDLED WITH
+   2.1.2
